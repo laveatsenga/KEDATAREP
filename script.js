@@ -1,0 +1,1 @@
+import svgMapsKenya from 'https://cdn.skypack.dev/@svg-maps/kenya';
